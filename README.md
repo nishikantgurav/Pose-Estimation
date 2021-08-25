@@ -1,0 +1,2 @@
+# Pose-Estimation
+This is a  AI- computer vision Project in which Human poses are detected with MediaPipe Pose .MediaPipe Pose is a high-fidelity body pose tracking solution that uses 3D landmarks and RGB video frames to identify the entire body.  Current approaches rely on powerful desktop environments to perform inference. This method achieves high-performance real-time performance in most modern platforms.   
